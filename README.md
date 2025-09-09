@@ -31,4 +31,4 @@ Web application built with Flutter and Firebase to manage and track deliveries f
    ```
 
 ## 📄 License
-This project is licensed under the [MIT License](./LICENSE.md).
+This project is licensed under the [MIT License](./LICENSE).
