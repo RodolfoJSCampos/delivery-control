@@ -119,4 +119,6 @@ app.*.symbols
 !/dev/ci/**/Gemfile.lock
 
 # Firebase related
-/app/lib/firebase_options.dart
+app/lib/firebase_options.dart
+lib/firebase_options.dart
+firebase_options.dart
